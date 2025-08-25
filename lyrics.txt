@@ -1,0 +1,49 @@
+# Lirik lagu
+lyrics = """
+[Verse 1]
+We don't talk about this back home
+Lock me up if I talk about this back home
+Mistreated some of us back home
+Colonized what's left in the West back home
+We sure play pretend back home
+Picking scraps of what we used to call home
+Cautious of how I use my phone
+Fearful of how I set my tone
+
+[Pre-Chorus]
+Can only sing these songs in English
+I know my chances, yeah, so I'll take the piss
+I don't have much time, let me finish
+A little space for things to say
+That got me
+
+[Chorus]
+Oh, hated in the nation
+I know I'll be
+Oh, hated in the nation
+The nation
+
+[Verse 2]
+We can't talk about this back home
+Tiptoe when you talk about home
+I know you get demonized back home
+Full speed demolition back home
+
+[Pre-Chorus]
+Can only sing these songs in English
+Unless I wanna sleep with the fishes
+Saudara sedarah menangis
+A little space for things to say
+That got me
+
+[Chorus]
+Oh, hated in the nation
+I know I'll be
+Oh, hated in the nation
+The nation
+Oh, hated in the nation
+I know I'll be
+Oh, hated in the nation
+The nation
+
+"""
